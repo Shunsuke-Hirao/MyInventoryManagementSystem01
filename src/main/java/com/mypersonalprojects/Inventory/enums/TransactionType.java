@@ -1,4 +1,5 @@
 package com.mypersonalprojects.Inventory.enums;
 
-public class TransactionType {
+public enum TransactionType {
+    PURCHASE, SALE, RETURN_TO_SUPPLIER
 }

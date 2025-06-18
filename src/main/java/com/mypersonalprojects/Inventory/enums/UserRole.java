@@ -1,4 +1,5 @@
 package com.mypersonalprojects.Inventory.enums;
 
-public class UserRole {
+public enum UserRole {
+    ADMIN, MANAGER
 }

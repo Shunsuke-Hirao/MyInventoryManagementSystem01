@@ -9,6 +9,7 @@ public class InventoryApplication {
 //	4
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(InventoryApplication.class, args);
 	}
 
