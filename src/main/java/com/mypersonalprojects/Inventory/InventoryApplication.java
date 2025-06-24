@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class InventoryApplication {
 
-//	10
+//	17
 
 	public static void main(String[] args) {
 
